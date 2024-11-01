@@ -94,7 +94,7 @@ install
 
 ## Author
 
-👤 **KhanhNguyen9872**
+👤 **lamanvo**
 
 * Website: KhanhNguyen9872.github.io
 * Twitter: [@Khnh59855418](https://twitter.com/Khnh59855418)
@@ -110,7 +110,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [KhanhNguyen9872](https://github.com/KhanhNguyen9872).<br />
+Copyright © 2022 [lamanvo](https://github.com/KhanhNguyen9872).<br />
 This project is [KhanhNguyen9872](https://github.com/KhanhNguyen9872) licensed.
 
 ***
